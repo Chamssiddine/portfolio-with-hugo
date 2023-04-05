@@ -17,7 +17,7 @@ project_info:
 
 #### Project Details
 
-My project aims to move all development flow to the cloud and eliminate the hustle and time wasted that comes with setting your development environment manually which facilitate the integration of new developers to the teams, you will only need VSCODE with Remote - SSH Extention.
+My project aims to move the entire development process to the cloud and eliminate the hassle and time wasted on manual setup of the development environment. This will facilitate the integration of new developers into the teams. With the help of VSCODE and the Remote-SSH extension, developers will only need to connect to the cloud environment, and they'll be ready to work.
 
 
 #### Project Requirements

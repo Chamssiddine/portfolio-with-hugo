@@ -18,16 +18,16 @@ experience:
       duration : "Feb 2022 — Mai 2022"
       content : "Create multiple CI/CD Pipelines with Gitlab, Jenkins, Nexus and Sonarqube.
                 <br>Use Docker Compose to simplify deploying the platform on any machine.
-               <br>Write bash scripts to automate the creation of the CI/CD platform."
+                <br>Write bash scripts to automate the creation of the CI/CD platform."
       
     # experience item loop
     - name : "DevOps Instructor"
       company : "GOMYCODE"
       duration : "Mars 2023 — Mai 2023"
       content : "Sharing knowledge and teaching skills that I've spent years acquiring.
-      <br> Prepare a CI/CD pipeline
-      <br>Prepare kubernetes Cluster
-      <br>Deploy a Web Application on Kubernetes Cluster
+                 <br>Prepare a CI/CD pipeline.
+                 <br>Prepare a Kubernetes cluster.
+                 <br>Deploy a web application on a Kubernetes cluster.
       <br>Prepare the Cloud Infrastructure with Terraform on AWS"
       
 
@@ -64,4 +64,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Hi, I'm Chamssiddine, a Master Student interested in DevOps. I want to contribute to the community and learn more by helping organizations integrate DevOps practices into their workflow. I'm particularly interested in using Cloud, Kubernetes, and Single Sign-On to create efficient remote development environments.<br>
+Hi, I'm Chamssiddine, a master's student interested in DevOps. I would like to contribute to the community and learn more by helping organizations integrate DevOps practices into their workflow. I'm particularly interested in using cloud computing, Kubernetes, and single sign-on to create efficient remote development environments.<br>

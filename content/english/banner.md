@@ -13,7 +13,7 @@ occupations:
 
 # slider background image loop
 slider_images:
-- "images/slider/demo.png"
+- "images/static/demo.png"
 - "images/slider/rde.png"
 - "images/slider/last.png"
 
