@@ -1,6 +1,6 @@
 ---
 title:  "Remote Development Environment"
-date: 2023-03-12T12:14:34+06:00
+date: 2023-02-12T12:14:34+06:00
 image: "images/portfolio/remodedevenv.png"
 # categories: []
 description: "This is meta description."
