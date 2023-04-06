@@ -1,5 +1,5 @@
 ---
-title:  "Remote Development Environment"
+title:  "Remote Dev Env"
 date: 2023-02-12T12:14:34+06:00
 image: "images/portfolio/remodedevenv.png"
 # categories: []
