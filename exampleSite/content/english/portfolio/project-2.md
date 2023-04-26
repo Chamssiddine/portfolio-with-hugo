@@ -11,7 +11,7 @@ project_info:
 
 - name: "Github Repo Link"
   icon: "fab fa-github"
-  content: "https://github.com/Chamssiddine/remote-dev-env"
+  content: "https://github.com/Chamssiddine/remote-development-environment"
 
 ---
 
